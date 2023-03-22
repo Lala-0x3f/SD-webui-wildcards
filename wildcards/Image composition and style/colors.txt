@@ -1,0 +1,29 @@
+aqua theme
+black theme
+blue theme
+brown theme
+green theme
+grey theme
+orange theme
+pink theme
+purple theme
+red theme
+white theme
+yellow theme
+
+anime coloring
+cel shading
+flat color
+gradient
+ff gradient
+high contrast
+inverted colors
+limited palette
+monochrome
+color drain
+multiple monochrome
+spot color
+greyscale
+greyscale with colored background
+colored with greyscale background
+partially colored

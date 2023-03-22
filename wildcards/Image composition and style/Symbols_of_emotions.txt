@@ -1,0 +1,20 @@
+    ^^^
+    +++
+    =3
+    Anger vein
+        Spoken anger vein
+    Blush
+        Spoken blush
+    Heart 
+        Arrow through heart
+        Broken heart
+        Spoken heart
+    Notice lines
+    Shout lines
+    Squiggle
+        Spoken squiggle
+    Smiley face
+    Symbol BA-90
+    Sweatdrop
+        Spoken sweatdrop
+        Flying sweatdrops
