@@ -1,0 +1,37 @@
+CPU
+keyboard
+holographic keyboard
+mouse
+mousepad
+drawing tablet
+WACOM
+monitor
+curved monitor
+holographic monitor
+touchscreen
+holographic touchscreen
+
+CD
+DVD
+external hard drive
+floppy disk
+MiniDisc
+SD card
+
+computer chip
+DELL
+Intel
+SanDisk
+laptop
+MSX
+1chip MSX
+NVIDIA
+RAM
+server
+tablet PC
+X68000
+USB
+graphics card
+IBM
+Apple INC.
+Microsoft

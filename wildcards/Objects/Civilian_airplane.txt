@@ -1,0 +1,13 @@
+Airbus A320 airplane
+Airbus A330 airplane
+Airbus A340 airplane
+Airbus A350 airplane
+Airbus A380 airplane
+Antonov An-148 airplane
+Antonov An-225 airplane
+Boeing 727 airplane
+Boeing 747 airplane
+Boeing 767 airplane
+Boeing 787 airplane
+McDonnell Douglas DC-10 airplane
+McDonnell Douglas MD-11 airplane

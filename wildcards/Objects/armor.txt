@@ -1,0 +1,111 @@
+armored twintails
+faceplate
+forehead protector
+helm
+helmet
+morion
+kettle helm
+kabuto (samurai helmet)
+pith helmet
+spiked helmet
+winged helmet
+visor (armor)
+
+gorget (armored collar)
+shikoro (neck guard)
+
+pauldrons (this tag includes armor technically classified as spaulders)
+shoulder pads
+sode
+
+rerebrace
+arm guards
+couter
+rondel
+bracer
+elbow pads
+gauntlets
+kote
+kurokote
+vambraces
+
+breastplate
+cuirass
+muscle cuirass
+muneate
+bulletproof vest
+plate carrier
+chainmail
+scale armor
+linothorax
+
+crotch plate
+faulds
+kusazuri
+codpiece
+
+armored boots
+sabaton
+cuisses
+faulds
+greaves
+knee pads
+kusazuri
+leg armor
+poleyn
+shin guards
+suneate
+
+ballistic shield (tactical shield)
+beam shield
+buckler
+riot shield
+
+
+bikini armor
+reverse bikini armor
+bougu
+bomb suit
+exoskeleton
+full armor
+power armor
+power suit
+Plate armor
+Japanese armor
+bougu
+kabuto (samurai helmet)
+kote
+dou
+kurokote
+kusazuri
+muneate
+Japanese armor
+shikoro (neck guard)
+sode
+suneate
+breastplate
+cuirass
+buckler
+chainmail
+faulds
+gauntlets
+greaves
+helm
+morion
+kettle_helm
+scale armor
+vambraces
+visor (armor)
+winged helmet
+
+bulletproof vest
+plate carrier
+bomb suit
+riot shield (tactical shield)
+shin guards
+beam shield
+exoskeleton
+power armor
+power suit
+Gravity Suit
+SEVA Suit

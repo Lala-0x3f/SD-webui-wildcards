@@ -1,0 +1,280 @@
+J-7 airplane
+J-10 airplane
+J-10B airplane
+J-20 airplane
+J-31 airplane
+Kj-200 airplane
+Mirage III airplane
+Mirage 2000 airplane
+Besson MB.411 airplane
+Dassault rafale airplane
+VG-33 airplane
+Loire 130 airplane
+Albatros DIII airplane
+AR 196 airplane
+BF 109 airplane
+BF 110 airplane
+BV 138 airplane
+BV 155 airplane
+D.VII airplane
+DO 24 airplane
+DO 335 airplane
+DR.i airplane
+EF 128 airplane
+FI 156 airplane
+FI 167 airplane
+FW 58 airplane
+FW 190 airplane
+FW 200 airplane
+HE 59 airplane
+HE 100 airplane
+HE 111 airplane
+HE 115 airplane
+HE 162 airplane
+HE 219 airplane
+HE 280 airplane
+HE Lerche airplane
+HS 123 airplane
+HS 129 airplane
+HO 229 airplane
+JU 52 airplane
+JU 87 airplane
+JU 88 airplane
+JU 290 airplane
+ME 163 airplane
+ME 210 airplane
+ME 262 airplane
+ME 321 airplane
+ME 410 airplane
+TA 152 airplane
+TA 154 airplane
+TA 183 airplane
+Triebfluegel airplane
+Cant 25 airplane
+Z.506 Airone airplane
+CR.42 Falco airplane
+G.50 Freccia airplane
+G.55 Centauro airplane
+Imam RO.43 airplane
+MC.200 Saetta airplane
+MC.202 Folgore airplane
+MC.205 Veltro airplane
+SM.79 Sparviero airplane
+A5M airplane
+A6M Zero airplane
+A6M2-N airplane
+A7M Reppuu airplane
+Aichi H9A airplane
+B5N airplane
+B6N Tenzan airplane
+B7A Ryuusei airplane
+C5M airplane
+C6N Saiun airplane
+D3A airplane
+D4Y Suisei airplane
+E-767 airplane
+E13A airplane
+E16A Zuiun airplane
+F-1 airplane
+F-2 airplane
+F1M airplane
+G4M airplane
+G8N Renzan airplane
+G10N Fugaku airplane
+H6K airplane
+H8K airplane
+M6A Seiran airplane
+MXY-7 Ohka airplane
+N1K airplane
+J1N Gekkou airplane
+J2M Raiden airplane
+J4M Senden airplane
+J7W Shinden airplane
+J8M Shuusui airplane
+Kikka airplane
+Katsuodori ramjet plane airplane
+Ki-15 airplane
+Ki-20 airplane
+Ki-27 airplane
+Ki-43 Hayabusa airplane
+Ki-44 Shouki airplane
+Ki-45 Toryu airplane
+Ki-46 airplane
+Ki-49 Donryuu airplane
+Ki-61 Hien airplane
+Ki-67 airplane
+Ki-84 Hayate airplane
+Ki-98 airplane
+Ki-100 airplane
+Ki-201 Karyuu airplane
+P-1 airplane
+P-2 airplane
+P1Y airplane
+Q1W Toukai airplane
+T-4 airplane
+T-2 airplane
+US-2 airplane
+Type88 light bomber airplane
+X-2 Shinshin airplane
+EF Typhoon airplane
+Panavia tornado airplane
+I-16 airplane
+I-152 airplane
+IL-2 airplane
+IL-4 airplane
+LA-5 airplane
+LA-7 airplane
+LA-11 airplane
+LaGG-3 airplane
+MiG-1 airplane
+MiG-1.44 airplane
+MiG-15 airplane
+MiG-17 airplane
+MiG-21 airplane
+MiG-23 airplane
+MiG-25 airplane
+MiG-29 airplane
+MiG-31 airplane
+PO-2 airplane
+SU-24 airplane
+SU-27 airplane
+SU-30 airplane
+SU-33 airplane
+SU-34 airplane
+SU-35 airplane
+SU-37 airplane
+SU-47 berkut airplane
+SU-57 / PAK FA airplane
+TU-22 airplane
+TU-22m airplane
+TU-28 airplane
+TU-95 airplane
+TU-160 airplane
+Yak-1 airplane
+Yak-9 airplane
+Yak-28 airplane
+Yak-141 airplane
+Saab Draken airplane
+Saab Gripen airplane
+Saab Viggen airplane
+Fairey barracuda airplane
+Bristol beaufighter airplane
+Blackburn buccaneer airplane
+Sopwith camel airplane
+Bolton-paul defiant airplane
+DH4 airplane
+Fairey firefly airplane
+Fairey gannet airplane
+Hawker harrier airplane
+Hawker hurricane airplane
+Avro lancaster airplane
+Lysander (airplane) airplane
+F4f wildcat airplane
+Gloster meteor airplane
+De havilland mosquito airplane
+Blackburn roc airplane
+Hawker Sea Fury airplane
+Hawker tempest airplane
+Hawker typhoon airplane
+Scimitar (airplane) airplane
+Spiteful (airplane) airplane
+Supermarine spitfire airplane
+Supermarine seafire airplane
+De havilland sea vixen airplane
+Gloster sparrowhawk airplane
+Fairey swordfish airplane
+Tiger Moth (airplane) airplane
+Hawker tornado airplane
+TSR-2 airplane
+De havilland vampire airplane
+Avro vulcan airplane
+Westland wyvern airplane
+A-1 Skyraider airplane
+A-4 Skyhawk airplane
+A-5 Vigilante airplane
+A-6 Intruder airplane
+A-10 Thunderbolt II airplane
+AC-130 Spectre airplane
+A2D Skyshark airplane
+B-1 Lancer airplane
+B-2 Spirit airplane
+B-17 Flying Fortress airplane
+B-24 Liberator airplane
+B-25 Mitchell airplane
+B-29 Superfortress airplane
+B-36 Peacemaker airplane
+B-52 Stratofortress airplane
+C-5M Super Galaxy airplane
+C-46 Commando airplane
+C-47 airplane
+C-130 Hercules airplane
+C-141 Starlifter airplane
+E-2 Hawkeye airplane
+E-3 Sentry airplane
+EA-6 Prowler airplane
+F-4 Phantom II airplane
+F-5 Freedom Fighter airplane
+F-8 Crusader airplane
+F-11 Tiger airplane
+F-14 Tomcat airplane
+F-15 Eagle airplane
+F-15S/MTD airplane
+F-16 Fighting Falcon airplane
+F-18 Hornet airplane
+F/A-18E Super Hornet airplane
+F-20 Tigershark airplane
+F-22 Raptor airplane
+F-35 Lightning II airplane
+F-86 Sabre airplane
+F-86D Sabre airplane
+F-94 Starfire airplane
+F-104 Starfighter airplane
+F-105 Thunderchief airplane
+F-106 Delta Dart airplane
+F-111 Aardvark airplane
+F-117 Nighthawk airplane
+FH Phantom airplane
+F2A Buffalo airplane
+F2Y Sea Dart airplane
+F4F Wildcat airplane
+F4U Corsair airplane
+F6F Hellcat airplane
+F7F Tigercat airplane
+F8F Bearcat airplane
+F9C Sparrowhawk airplane
+FM-2 Wildcat airplane
+JRM Mars airplane
+J2F Duck airplane
+KC-10 Extender airplane
+KC-135 Stratotanker airplane
+OV-10 Bronco airplane
+P-38 Lightning airplane
+P-39 Airacobra airplane
+P-40 Warhawk airplane
+P-47 Thunderbolt airplane
+P-51 Mustang airplane
+P-61 Black Widow airplane
+P-75 Eagle airplane
+P-80 Shooting Star airplane
+P-82 Twin Mustang airplane
+P6M SeaMaster airplane
+PBY Catalina airplane
+SR-71 Blackbird airplane
+SBD Dauntless airplane
+SB2C Helldiver airplane
+T-6 Texan airplane
+T-38 Talon airplane
+TBD Devastator airplane
+TBF Avenger airplane
+U-2 Dragon Lady airplane
+V-22 Osprey airplane
+X-1 airplane
+XF5U airplane
+XFY-1 airplane
+X-15 airplane
+X-24 airplane
+X-29 airplane
+X-36 airplane
+XB-35 airplane
+XF-85 Goblin airplane
+XP-79 airplane

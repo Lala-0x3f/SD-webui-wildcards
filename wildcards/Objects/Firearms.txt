@@ -1,0 +1,237 @@
+Antique firearm
+Arquebus
+Blunderbuss
+Derringer
+Firelock
+Caplock
+Flintlock
+Jezail
+Matchlock
+Musket
+Assault rifle
+Ak-47
+Ak-74
+Aks-74u
+Ak-102
+Ak-107
+An-94
+AKM
+APS rifle
+As val
+Beretta ar70/90
+Adaptive combat rifle
+Enfield sa-80
+Fad assault rifle
+Famas
+Fn f2000
+Fn fnc
+Ak 5
+Fn scar
+FX-05 Xiuhcoatl
+H&K HK416
+H&K G11
+H&K G36
+Howa type 89
+Imi galil
+Iwi tavor
+L85A1 / L85A2 (SA80)
+M16
+M4 carbine
+Ar-15
+Qbz-03
+Qbz-95
+Seburo c26a
+Sig 550
+Sig 551
+Steyr acr
+Steyr aug
+Stg44
+Krummlauf
+T65 assault rifle
+T91 assault rifle
+Vektor cr-21
+Xm29 oicw
+Battle rifle
+Ar-10
+Fg42
+FN FAL
+H&K HK417
+H&k g3
+Howa type 64
+M14
+M39 emr
+SKS
+Machine gun
+Conventional machine guns:
+Bren lmg
+Browning M1919
+Browning m2
+Dp-27
+Degtyaryov RPD
+H&k mg4
+IMI Negev
+Lewis gun
+M60
+M240 bravo
+M249
+M1918 bar
+Mg34
+Mg42
+Pkm
+Rheinmetall MG3
+Rpk
+Type 11 light machine gun
+Type 92
+Type 96 light machine gun
+Type 99 light machine gun
+Xm307
+Zb 26
+Gatling gun
+GAU-8 Avenger
+M134 minigun
+M167 vads
+Handgun
+Beretta 92
+Beretta 93r
+Beretta model 38
+Beretta px4
+Browning hi-power
+Colt double eagle
+Cz-75
+FK BRNO field pistol
+Desert eagle
+FN Five-seveN
+Fn model 1903
+Fn model 1910
+Fp-45 liberator
+Glock
+H&K Mark 23
+H&K P9S
+H&K USP
+H&K VP70
+IMI Jericho
+Luger P08
+M1911
+Mauser C96
+Mauser HSC
+NAA Guardian 380
+Nambu Type 14
+PM Makarov
+Qsz-92
+Ruger LCP
+Ruger P95
+Serdyukov sps
+Sig sauer
+P226
+P228
+Thompson/center contender
+Tokarev tt-33
+Triple Action Thunder
+Walther p38
+Walther p5
+Walther p99
+Walther ppk
+Revolver
+Colt python
+Colt 1851 Navy
+Pepperbox revolver
+Single-action revolver
+Colt Single Action Army
+Remington new model
+Smith & Wesson Model 500
+Snubnose
+Webley revolver
+Rifle
+Bolt-action
+Ai Arctic Warfare
+Arisaka
+Blaser r93
+Cheytac m200
+Lee-enfield
+M1903 springfield
+Mauser 98
+Mosin-nagant
+Remington model 700
+Sv-98
+Semi-automatic
+Armalite ar-7
+Gewehr 43
+Kel-tec RFB
+M1 Garand
+Ruger Mini-14
+Lever action
+Mare's leg
+Winchester Model 1866
+Winchester Model 1894
+Shotgun
+AA-12
+Benelli M1014
+Mossberg 500
+Remington Model 870
+Sawed-off shotgun
+Spas-12
+Spas-15
+Winchester model 1897
+Sniper rifle
+Accuracy International Arctic Warfare
+Blaser R93
+Cheytac M200
+Dragunov SVD
+M-21
+Remington model 700
+M110 SASS
+H&K PSG1
+Psl romak
+Remington MSR
+SV-98
+Vss vintorez
+Vychlop vks/vssk
+Walther wa 2000
+XM2010 Enhanced Sniper Rifle (ESR)
+Anti-materiel rifle
+Awp
+Accuracy International AW-50
+Barrett
+M82
+M107
+Denel NTW-20
+Ptrd-41
+Ptrs-41
+Submachine gun
+Beretta m12
+Brugger & Thomet MP9
+Calico smg
+CBJ-MS
+Colt SMG
+Jatimatic
+H&K MP5
+H&K MP5K
+H&K MP7
+H&K UMP
+IMI Uzi
+Micro Uzi
+Mini Uzi
+Kpist m/45
+Lanchester SMG
+M3 Submachine Gun
+M50 reising
+Mac-10
+Mac-11
+Magpul fmg-9
+Magpul pdr
+Mat-49
+Mp3008
+Mp40
+Mp41
+P90
+Pp-19 bizon
+Pp-2000
+Ppsh-41
+Skorpion vz. 61
+Sterling smg
+Steyr tmp
+Sten gun
+Suomi kp/-31
+Kriss vector
+Thompson submachine gun
+Type 100
